@@ -387,7 +387,7 @@ In this task, you will configure and test routing between the two spoke virtual 
 
 In this task, you will implement an Azure Load Balancer in front of the two Azure virtual machines in the hub virtual network
 
-1. In the Azure portal, search and select **Load balancers** and, on the **Load balancers** blade, click **+ Add**.
+1. In the Azure portal, search and select **Load balancers** and, on the **Load balancers** blade, click **+ Create**, select **Standard Load Balancer**.
 
 1. Create a load balancer with the following settings (leave others with their default values):
 
